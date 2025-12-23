@@ -63,7 +63,13 @@
 - [ ] 简易迷你 K 线 / 分时图展示  
 - [ ] 多布局模式（左侧/右侧纵向、底部横条等）  
 - [ ] 更丰富的预警逻辑（如涨跌幅 / 量比 / 成交额触发提示）  
-- [ ] 托盘菜单更多快捷操作  
+- [ ] 托盘菜单更多快捷操作
+
+<img width="348" height="146" alt="image" src="https://github.com/user-attachments/assets/292dce5f-92f7-4242-b124-f5e3b6a3e2d2" /><br/>
+<img width="500" height="629" alt="image" src="https://github.com/user-attachments/assets/a91dd053-5e52-4e94-8cde-d0f56b61a045" /><br/>
+<img width="502" height="630" alt="image" src="https://github.com/user-attachments/assets/2128dbcc-e75e-4ed4-8865-4ed3328cbd11" /><br/>
+<img width="498" height="630" alt="image" src="https://github.com/user-attachments/assets/118f1d1a-46e4-4141-8d2d-c9debd6900ba" /><br/>
+<img width="501" height="628" alt="image" src="https://github.com/user-attachments/assets/31076578-8aa3-43c7-ac1e-47888971353a" /><br/>
 
 欢迎提 Issue / PR，一起把它打磨成最好用的「上班摸鱼盯盘神器」🙂
 
